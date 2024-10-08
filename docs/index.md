@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "前端工程化"
   text: "Vue 3 + TypeScript 学习文档"
-  tagline: "学习是少数人的狂欢，亦是孤独者的游戏"
+  tagline: "夜色难免黑凉，前行必有曙光。"
   image:
     src: https://ctynt-oss.oss-cn-hangzhou.aliyuncs.com/logo.png
     alt: 前端工程化
