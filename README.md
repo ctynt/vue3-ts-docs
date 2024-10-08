@@ -1,5 +1,5 @@
 <p align="center">
-<img src="" height="200" >
+<img src="./docs/assets/logo.png" height="200" >
 </p>
 
 <h1 align="center">Vue 3 + TypeScript 学习文档</h1>
@@ -14,14 +14,14 @@
 ![Github Forks](https://img.shields.io/github/forks/ctynt/vue3-ts-docs)
 
 ![Build Status](https://img.shields.io/github/workflow/status/ctynt/vue3-ts-docs/CI)
-![NPM Version](https://img.shields.io/npm/v/vue3-ts-docs)
-![NPM Downloads](https://img.shields.io/npm/dm/vue3-ts-docs)
+![NPM Version](https://img.shields.io/npm/v/vue)
+![NPM Downloads](https://img.shields.io/npm/dw/vue)
 ![Maintenance](https://img.shields.io/maintenance/yes/2024)
-
 
 </p>
 
 ## 🔥features
+
 - 从头开始，循环渐进地学习 Vue 3 和 TypeScript。
 - 涵盖了从组件设计到和代码优化的实际开发经验。
 - 通过 VitePress 和 TypeScript，快速搭建高效、可维护的Vue 3应用
