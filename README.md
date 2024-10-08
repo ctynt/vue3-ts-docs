@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./docs/assets/logo.png" height="200" >
+<img src="https://ctynt-oss.oss-cn-hangzhou.aliyuncs.com/logo.png" height="200" >
 </p>
 
 <h1 align="center">Vue 3 + TypeScript 学习文档</h1>
