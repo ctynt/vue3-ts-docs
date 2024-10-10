@@ -43,7 +43,7 @@ npm install
 npm run dev
 ```
 
- 运⾏ npm run dev 后，Vite 会启动⼀个开发服务器，通常会在 http://localhost:5173 上运⾏。  
+ 运⾏ npm run dev 后，Vite 会启动⼀个开发服务器，通常会在 <a href="http://localhost:5173" target="_blank" rel="noreferrer">http://localhost:5173</a> 上运⾏。  
 
 ## 6. Vite 模板详细解释
 ### 6.1. Vue 模板
